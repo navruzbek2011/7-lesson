@@ -1,0 +1,84 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1675.58px;
+    height: 1133px;
+    background-color: gainsboro;
+}
+.box_tall{
+    
+}
+.text{
+    text-align: center;
+}
+
+.box_small {
+    display: flex;
+    position: relative;
+}
+
+.box_gigant {
+    width: 350px;
+    height: 354px;
+    border-radius: 20px;
+    background-color: white;
+    position: absolute;
+    left: 344px;
+}
+
+.box_best {
+    width: 350px;
+    height: 354px;
+    border-radius: 20px;
+    background-color: white;
+    position: absolute;
+    left: 728px;
+}
+
+.box {
+    width: 350px;
+    height: 354px;
+    border-radius: 20px;
+    background-color: white;
+    position: absolute;
+    left: 1114px;
+}
+
+.box_big {
+    display: flex;
+    position: relative;
+}
+
+.box_bts {
+    width: 350px;
+    height: 354px;
+    border-radius: 20px;
+    background-color: white;
+    position: absolute;
+    top: 400px;
+    left: 344px;
+}
+
+.box_goblin {
+    width: 350px;
+    height: 354px;
+    border-radius: 20px;
+    background-color: white;
+    position: relative;
+    top: 400px;
+    left: 50px;
+}
+
+.box_putin {
+    width: 350px;
+    height: 354px;
+    border-radius: 20px;
+    background-color: white;
+    position: absolute;
+    top: 400px;
+    left: 1114px;
+}
